@@ -1,0 +1,2 @@
+# -ezhevika
+static web site
