@@ -1,2 +1,2 @@
-# -ezhevika
+# ezhevika
 static web site
